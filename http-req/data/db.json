@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartwatch",
+      "price": 899.9
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "price": 1099.99
+    },
+    {
+      "id": "3",
+      "name": "Tablet",
+      "price": 699.5
+    },
+    {
+      "id": "4",
+      "name": "Laptop",
+      "price": 1499.99
+    },
+    {
+      "id": "5",
+      "name": "Headphones",
+      "price": 199.99
+    },
+    {
+      "id": "6",
+      "name": "Camera",
+      "price": 799
+    },
+    {
+      "id": "7",
+      "name": "Gaming Console",
+      "price": 399.99
+    },
+    {
+      "id": "8",
+      "name": "Fitness Tracker",
+      "price": 129.5
+    },
+    {
+      "id": "9",
+      "name": "Bluetooth Speaker",
+      "price": 79.99
+    },
+    {
+      "id": "10",
+      "name": "External Hard Drive",
+      "price": 129
+    },
+    {
+      "id": "3d75",
+      "name": "asd",
+      "price": 1
+    },
+    {
+      "id": "4614",
+      "name": "asd",
+      "price": 1
+    },
+    {
+      "id": "679e",
+      "name": "asd",
+      "price": 1
+    },
+    {
+      "id": "a80d",
+      "name": "asd",
+      "price": 1
+    },
+    {
+      "id": "f52f",
+      "name": "asd",
+      "price": 1
+    },
+    {
+      "id": "c6f4",
+      "name": "asd",
+      "price": 1
+    }
+  ]
+}
